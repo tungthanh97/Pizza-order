@@ -1,0 +1,9 @@
+select {
+  font-size: 1rem;
+  height: 1.8rem;
+  width: max-content;
+}
+
+select:invalid {
+  color: gray;
+}
